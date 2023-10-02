@@ -25,7 +25,7 @@ If you are looking for more guidance on preparing for Data Science, Data Analyti
 
 | Company Name       | Location            | Roles                                    | Citizenship/Visa Requirements | Date Added  |
 |--------------------|---------------------|------------------------------------------|------------------------------|-------------|
-| [Figma](Figma Pos) | San Fransisco, CA, New York, NY         | ✅ Data Scientist Intern                    | U.S. Citizenship not Required    | 10/02/2023  |
+| [Figma](https://boards.greenhouse.io/figma/jobs/4956894004) | San Fransisco, CA, New York, NY         | ✅ Data Scientist Intern                    | U.S. Citizenship not Required    | 10/02/2023  |
 | [Company 2](Link) | City, State         | ✅ Data Analytics Intern                  | Visa Sponsorship Available   | mm/dd/yyyy  |
 | [Company 3](Link) | City, State         | ✅ Business Analytics Intern              | No Specific Requirement      | mm/dd/yyyy  |
 | [Company 4](Link) | City, State         | ✅ Data Scientist Intern                  | U.S. Permanent Resident      | mm/dd/yyyy  |
