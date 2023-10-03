@@ -13,14 +13,6 @@ Welcome! 🎉 This is a collection of internship openings for students intereste
 - [Helpful Resources](#helpful-resources)
 - [How to Contribute](#how-to-contribute)
 
-## Resources
-If you are looking for more guidance on preparing for Data Science, Data Analytics, and Business Analytics internships, you may find these resources helpful:
-
-- **Resource 1**: [Link to Resource 1]
-- **Resource 2**: [Link to Resource 2]
-- **Resource 3**: [Link to Resource 3]
-- **Resource 4**: [Link to Resource 4]
-
 ## Find The Internships 🔽
 
 | Company Name       | Location            | Roles                                    | Citizenship/Visa Requirements | Date Added  |
