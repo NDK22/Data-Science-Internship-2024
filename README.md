@@ -26,7 +26,7 @@ If you are looking for more guidance on preparing for Data Science, Data Analyti
 | Company Name       | Location            | Roles                                    | Citizenship/Visa Requirements | Date Added  |
 |--------------------|---------------------|------------------------------------------|------------------------------|-------------|
 | [Figma](https://boards.greenhouse.io/figma/jobs/4956894004) | San Fransisco, CA, New York, NY         | ✅ Data Scientist Intern                    | U.S. Citizenship not Required    | 10/02/2023  |
-| [Company 2](Link) | City, State         | ✅ Data Analytics Intern                  | Visa Sponsorship Available   | mm/dd/yyyy  |
+| [Norfolk Southern]([Link](https://jobs.nscorp.com/job/Atlanta-Machine-Learning-SpringSummer-Intern-2024-GA-30308/1072847400/)) | Atlanta, Georgia         | ✅ Machine Learning Intern                  | Us Citizenship Not Required   | 10/02/2023  |
 | [Company 3](Link) | City, State         | ✅ Business Analytics Intern              | No Specific Requirement      | mm/dd/yyyy  |
 | [Company 4](Link) | City, State         | ✅ Data Scientist Intern                  | U.S. Permanent Resident      | mm/dd/yyyy  |
 | [Company 5](Link) | City, State         | ✅ Data Analysis Internship               | International Students Welcome | mm/dd/yyyy  |
