@@ -10,7 +10,6 @@ Welcome! 🎉 This is a collection of internship openings for students intereste
 
 ## Table of Contents
 - [Find The Internships](#find-the-internships)
-- [Helpful Resources](#helpful-resources)
 - [How to Contribute](#how-to-contribute)
 
 ## Find The Internships 🔽
@@ -26,12 +25,6 @@ Welcome! 🎉 This is a collection of internship openings for students intereste
 
 **Note**: Make sure to click on the links to get more details about each internship opportunity.
 
-## Helpful Resources 🎯
-If you are preparing for Data Science, Data Analytics, or Business Analytics internship interviews, consider these resources:
-
-- **Resource 1**: [Link to Resource 1]
-- **Resource 2**: [Link to Resource 2]
-- **Resource 3**: [Link to Resource 3]
 
 ## How to Contribute 💬
 To contribute to this list, please follow these steps:
@@ -42,4 +35,4 @@ To contribute to this list, please follow these steps:
 
 Your contribution is greatly appreciated! 🚀
 
-[Join Our Community on Discord](Link to Discord)
+
